@@ -9,7 +9,7 @@ If you like or use this application, please consider supporting by starring the 
 This is an example of how to use the Ungerboeck API with a NodeJS application and JWT signing/creation. You can find these in the API User window within Ungerboeck (after making an API User).
 
 ## Installation
-FiveM Artifact Updater requires [Node.js](https://nodejs.org/) to run.
+Ungerboeck NodeJS Api Example requires [Node.js](https://nodejs.org/) to run.
 
 1. Install Node.JS. May require a computer restart.
 2. Run `npm install` in the install directory
